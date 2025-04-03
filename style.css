@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#con{
+    background-color: rgb(203, 229, 230);
+    margin: 100px;
+    margin-left: 450px;
+    margin-right: 450px;
+    padding: 100px;
+    border: 20px;
+    padding-top: 50px;
+    text-align: center;
+}
+h1{
+    text-align:center;
+    
+}
+button{
+    margin-top: 15px;
+    padding: 10px;
+    border-radius: 10px;
+    border-color: brown;
+    width: 200px;
+    font-size: small;
+    
+}
